@@ -1,0 +1,74 @@
+1207,Rome   ,180
+1208,Rome   ,180
+1209,Rome   ,180
+1210,Rome   ,180
+1301,Rome   ,220
+1302,Rome   ,220
+1303,Rome   ,220
+1304,Rome   ,220
+1305,Rome   ,220
+1306,Rome   ,220
+1307,Rome   ,220
+1308,Rome   ,220
+1309,Rome   ,220
+1310,Rome   ,220
+2101,Bolzano,120
+2102,Bolzano,120
+2103,Bolzano,120
+2104,Bolzano,120
+2105,Bolzano,120
+2106,Bolzano,120
+2107,Bolzano,120
+2108,Bolzano,120
+2109,Bolzano,120
+2110,Bolzano,120
+2201,Bolzano,140
+2202,Bolzano,140
+2203,Bolzano,140
+2204,Bolzano,140
+2205,Bolzano,140
+2206,Bolzano,140
+2207,Bolzano,140
+2208,Bolzano,140
+2209,Bolzano,140
+2210,Bolzano,140
+2301,Bolzano,160
+2302,Bolzano,160
+2303,Bolzano,160
+2304,Bolzano,160
+2305,Bolzano,160
+2306,Bolzano,160
+2307,Bolzano,160
+2308,Bolzano,160
+2309,Bolzano,160
+2310,Bolzano,160
+3101,Milan   ,90
+3102,Milan   ,90
+3103,Milan   ,90
+3104,Milan   ,90
+3105,Milan   ,90
+3106,Milan   ,90
+3107,Milan   ,90
+3108,Milan   ,90
+3109,Milan   ,90
+3110,Milan   ,90
+3201,Milan   ,100
+3202,Milan   ,100
+3203,Milan   ,100
+3204,Milan   ,100
+3205,Milan   ,100
+3206,Milan   ,100
+3207,Milan   ,100
+3208,Milan   ,100
+3209,Milan   ,100
+3210,Milan   ,100
+3301,Milan   ,110
+3302,Milan   ,110
+3303,Milan   ,110
+3304,Milan   ,110
+3305,Milan   ,110
+3306,Milan   ,110
+3307,Milan   ,110
+3308,Milan   ,110
+3309,Milan   ,110
+3310,Milan   ,110
